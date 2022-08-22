@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb669a90836c45ee8a61af5b83ad455, type: 3}
+  m_Name: Question (2)
+  m_EditorClassIdentifier: 
+  question: What percent of AP Computer Science test takers were female in 2020?
+  answers:
+  - 15%
+  - 23%
+  - 31%
+  - 49%
+  correctAnswerIndex: 2
